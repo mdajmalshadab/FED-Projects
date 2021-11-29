@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/FED-Projects/static/css/main.718112e4.chunk.css",
+    "main.js": "/FED-Projects/static/js/main.652f9169.chunk.js",
+    "main.js.map": "/FED-Projects/static/js/main.652f9169.chunk.js.map",
+    "runtime-main.js": "/FED-Projects/static/js/runtime-main.13d95efb.js",
+    "runtime-main.js.map": "/FED-Projects/static/js/runtime-main.13d95efb.js.map",
+    "static/js/2.59c3f044.chunk.js": "/FED-Projects/static/js/2.59c3f044.chunk.js",
+    "static/js/2.59c3f044.chunk.js.map": "/FED-Projects/static/js/2.59c3f044.chunk.js.map",
+    "index.html": "/FED-Projects/index.html",
+    "static/css/main.718112e4.chunk.css.map": "/FED-Projects/static/css/main.718112e4.chunk.css.map",
+    "static/js/2.59c3f044.chunk.js.LICENSE.txt": "/FED-Projects/static/js/2.59c3f044.chunk.js.LICENSE.txt",
+    "static/media/ai.aa60586b.png": "/FED-Projects/static/media/ai.aa60586b.png",
+    "static/media/blog01.cefc0932.png": "/FED-Projects/static/media/blog01.cefc0932.png",
+    "static/media/blog02.ab0eb367.png": "/FED-Projects/static/media/blog02.ab0eb367.png",
+    "static/media/blog03.d9223238.png": "/FED-Projects/static/media/blog03.d9223238.png",
+    "static/media/blog04.742c1357.png": "/FED-Projects/static/media/blog04.742c1357.png",
+    "static/media/blog05.bfaa1c1e.png": "/FED-Projects/static/media/blog05.bfaa1c1e.png",
+    "static/media/logo.16efaf42.svg": "/FED-Projects/static/media/logo.16efaf42.svg",
+    "static/media/people.5cd2d6fb.png": "/FED-Projects/static/media/people.5cd2d6fb.png",
+    "static/media/possibility.525f13b6.png": "/FED-Projects/static/media/possibility.525f13b6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.13d95efb.js",
+    "static/js/2.59c3f044.chunk.js",
+    "static/css/main.718112e4.chunk.css",
+    "static/js/main.652f9169.chunk.js"
+  ]
+}
